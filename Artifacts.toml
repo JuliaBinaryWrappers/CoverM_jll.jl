@@ -1,34 +1,34 @@
 [[CoverM]]
 arch = "aarch64"
-git-tree-sha1 = "a9e3797a4ca1b8f07910b496283d0955ef80ac7a"
+git-tree-sha1 = "9a3ee6d066127dd520ecd0ba2c6ac81160023ca6"
 os = "macos"
 
     [[CoverM.download]]
-    sha256 = "8c76af88ab58be15e57b063280afedfccce527d3a3014305fb6e8e7a089c7aaf"
-    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.6.1+0/CoverM.v0.6.1.aarch64-apple-darwin.tar.gz"
+    sha256 = "3452439382dc4f72bb1ed7136e03cebdf34cb36fee74a0e060966c9aa218584d"
+    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.7.0+0/CoverM.v0.7.0.aarch64-apple-darwin.tar.gz"
 [[CoverM]]
 arch = "x86_64"
-git-tree-sha1 = "c92261b1281feeafe61e7be511b5efa112aafc4f"
+git-tree-sha1 = "5e030f134da592c7ff7024fce048e556b52f09a4"
 os = "macos"
 
     [[CoverM.download]]
-    sha256 = "70602d4a33d7a03bdf15763e1c9d4104634b9583cc888bcba3c50b8c7a688db6"
-    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.6.1+0/CoverM.v0.6.1.x86_64-apple-darwin.tar.gz"
+    sha256 = "bd3934b15406a4db21a929090f0e6b83dfffcebc71adb1d447b22e98a7d532a2"
+    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.7.0+0/CoverM.v0.7.0.x86_64-apple-darwin.tar.gz"
 [[CoverM]]
 arch = "x86_64"
-git-tree-sha1 = "07fd80d65c3231afcd201dca476c5709260303f5"
+git-tree-sha1 = "d00fb0b4fa20c983eb6af3b8eec4519168c110ab"
 libc = "glibc"
 os = "linux"
 
     [[CoverM.download]]
-    sha256 = "81aa79f6b4575ca37ef5abec63c7e32561cfade7660042009f97bb10d0d997d0"
-    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.6.1+0/CoverM.v0.6.1.x86_64-linux-gnu.tar.gz"
+    sha256 = "fa7b7d1455068f2331a911ba16bc5a9612b9f95295389723541a2f3d92e09924"
+    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.7.0+0/CoverM.v0.7.0.x86_64-linux-gnu.tar.gz"
 [[CoverM]]
 arch = "x86_64"
-git-tree-sha1 = "5adadae2c26b413c56396cf7cfc2a94abb054ab5"
+git-tree-sha1 = "c17c3945e7b5bd4ad357ad6fcecd702d332869a7"
 libc = "musl"
 os = "linux"
 
     [[CoverM.download]]
-    sha256 = "43a648394f4f383f5499bf42c5a5097acebc9f4d67122d028aaf3560ff971869"
-    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.6.1+0/CoverM.v0.6.1.x86_64-linux-musl.tar.gz"
+    sha256 = "33c8d5f78a995f798963fd8427815f6d8c6147009b04cee6e9e7d88865c918ae"
+    url = "https://github.com/JuliaBinaryWrappers/CoverM_jll.jl/releases/download/CoverM-v0.7.0+0/CoverM.v0.7.0.x86_64-linux-musl.tar.gz"
